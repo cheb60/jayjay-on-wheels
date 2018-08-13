@@ -1,0 +1,5 @@
+1. Backend beheren van een entiteit met custom design.
+Herbruikbare functionaliteiten
+
+- Lijstweergave
+- Re
